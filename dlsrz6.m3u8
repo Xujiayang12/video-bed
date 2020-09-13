@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:402
+#EXTINF:401.080000,
+https://pro-video.xiaoheiban.cn/202009/b3411a69-c978-4de9-b501-4f854824881c.mp4
+#EXTINF:400.600000,
+https://pro-video.xiaoheiban.cn/202009/ae5d81d3-e76f-4aba-ae3b-88c46092dbc0.mp4
+#EXTINF:360.200000,
+https://pro-video.xiaoheiban.cn/202009/676e98a7-69f1-4211-a631-10a6d6bbba76.mp4
+#EXT-X-ENDLIST
